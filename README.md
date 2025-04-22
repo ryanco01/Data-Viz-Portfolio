@@ -15,7 +15,9 @@ To learn more about me, you can visit my [personal website](your_web_address), m
 ## Project 1 Title
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
-        <td style="padding: 10px; width:25%; border: none;"> <img src="./Images/proj1.png"  alt="1" ></td>
+        <td style="padding: 10px; width:25%; border: none;"> 
+            <img src="./Images/proj1.png"  alt="1" >
+        </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
             Briefly describe the project, the motivation, and/or the goal.
@@ -30,7 +32,9 @@ To learn more about me, you can visit my [personal website](your_web_address), m
 ## Project 2 Title
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
-        <td style="padding: 10px; width:25%; border: none;"> <img src="./Images/proj2.png"  alt="2" ></td>
+        <td style="padding: 10px; width:25%; border: none;"> 
+            <img src="./Images/proj2.png"  alt="2" >
+        </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
             Briefly describe Project 2<br><br>
@@ -45,7 +49,9 @@ To learn more about me, you can visit my [personal website](your_web_address), m
 ## Project 3 Title
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
-        <td style="padding: 10px; width:25%; border: none;"> <img src="./Images/proj3.png"  alt="3" ></td>
+        <td style="padding: 10px; width:25%; border: none;"> 
+            <img src="./Images/proj3.png"  alt="3" >
+        </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
             Briefly describe Project 3 <br><br>
