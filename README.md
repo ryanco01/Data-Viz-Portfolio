@@ -10,6 +10,10 @@ Welcome to my data visualization portfolio! Here, you'll find a collection of pr
 To learn more about me, you can visit my [personal website](your_web_address), my [github](https://github.com/YOURACCOUNT), or read my [CV](Images/CV.pdf).
 
 
+---
+
+## Project 1 Title
+
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
@@ -26,6 +30,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
     </tr> 
 </table>
 
+## Project 2 Title
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
@@ -43,6 +48,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
     </tr> 
 </table>
 
+## Project 3 Title
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
