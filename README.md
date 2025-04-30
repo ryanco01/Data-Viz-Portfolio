@@ -12,7 +12,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
 
 ---
 
-## Project 1 Title
+## Passing Heatmap
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
@@ -30,7 +30,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
     </tr> 
 </table>
 
-## Project 2 Title
+## Bill Belichick Infographic
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
@@ -48,7 +48,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
     </tr> 
 </table>
 
-## Project 3 Title
+## NFL Passing Dashboard
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
