@@ -1,14 +1,9 @@
 # Data Visualization Portfolio
 
 ## About Me
-Use this space to introduce yourself to an audience (think about your target audience). Tell them about who you are, your skills, your strengths, your interests, and career aspirations.
-
-Welcome to my data visualization portfolio! Here, you'll find a collection of projects showcasing my skills in data analysis and visualization. I am passionate about turning data into meaningful insights and compelling visuals.
-
-<!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
+Welcome to my data visualization portfolio! This collection showcases projects that reflect both my technical skills in data analysis and my passion for football. Throughout my data visualization course, I focused on NFL-related topics, aiming to turn complex data into clear, compelling insights. These projects represent work I genuinely enjoyed, and I hope they serve as a stepping stone toward a future in sports analytics.
 
 To learn more about me, you can visit my [LinkedIn](www.linkedin.com/in/collin-ryan-510223250), my [github](https://github.com/ryanco01),
-
 
 ---
 
