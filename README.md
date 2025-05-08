@@ -12,7 +12,7 @@ To learn more about me, you can visit my [LinkedIn](www.linkedin.com/in/collin-r
 
 ---
 
-## Passing Heatmap
+## Passing Heatmaps
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
@@ -21,10 +21,9 @@ To learn more about me, you can visit my [LinkedIn](www.linkedin.com/in/collin-r
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            Briefly describe the project, the motivation, and/or the goal.
             This project explores NFL quarterback passing. I was inspired by reddit user rj7002 and their rendition. The goal was to recreate this visual and then enhance it in my own way. ... <a href="./Project 1/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Python, Pandas, Plotly, Canva</i>
+            <i>Tools used: Python, Pandas, Plotly, Seaborn</i>
             </p>
         </td>
     </tr> 
@@ -39,10 +38,9 @@ To learn more about me, you can visit my [LinkedIn](www.linkedin.com/in/collin-r
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            Briefly describe Project 2<br><br>
             The goal of this project was to create a creative inforgraphic, I made one propping up who I feel is the greatest NFL head coach of all time, by exploring his decades of success...<a href="./Project 2/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Python, Pandas, Matplotlib</i>
+            <i>Tools used: Canva, Recraft</i>
             </p>
         </td>
     </tr> 
@@ -56,10 +54,9 @@ To learn more about me, you can visit my [LinkedIn](www.linkedin.com/in/collin-r
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            Briefly describe Project 3 <br><br>
-           For this project I wanted to expand the passing heatmap into something more substantial and usable. Utilizing data from the Big Data Bowl, I created a dashboard of passing charts for NFL quarterbacks... <a href="./Project 3/README.md">Learn more</a>
+            For this project I wanted to expand the passing heatmap into something more substantial and usable. Utilizing data from the Big Data Bowl, I created a dashboard of passing charts for NFL quarterbacks... <a href="./Project 3/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Canva, Recraft</i>
+            <i>Tools used: Python, Pandas, Seaborn, Plotly</i>
             </p>
         </td>
     </tr> 
