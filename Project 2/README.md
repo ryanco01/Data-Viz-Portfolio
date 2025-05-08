@@ -1,5 +1,5 @@
 # Bill Belichick Infographic
-
+<img src = "/Images/billbelichick.2.svg" alt="1">
 In this document:
  - Include a large image of your visualization ```![image alt text](image_file.png)```
  - Again, you're going to describe this project. You are answering What? Why? and How? You can re-use the blurb on the welcome page, but expand a little.
