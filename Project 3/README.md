@@ -1,9 +1,7 @@
-# Project 3 Title
-
-In this folder, include all the files you used to create your visualization (.ipynb, .csv, whatever) as well as a hi-res or pdf version of your final visualizations. 
+# NFL Passing Dashboard
 
 In this document:
  - Include a large image of your visualization ```![image alt text](image_file.png)```
- - Cite any data sources
- - List the tools used
- - Again, you're going to describe this project. You are answering What? Why? and How? You can re-use the blurb on the welcome page, but expand a little.
+
+This project is a dashboard of passing visualizations of NFL quarterbacks meant to provide the tools for an indepth analysis of a player's game. It uses data from the Big Data Bowl 2025.
+It currently uses 1 week of game data but will be expanded in the future. I used Python and Plotly to create the dashboard, along with a number of other packages (Pandas, Kaggles' API, etc.). Please note that since the dataset is so large it must be downloaded from the Big Data Bowl Kaggle page, this code will check for it downloaded, though you will need a Kaggle API key to do so.
