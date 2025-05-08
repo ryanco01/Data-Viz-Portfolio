@@ -1,5 +1,5 @@
 # Bill Belichick Infographic
-<img src = "/Images/BB Hashmarks (18 x 32 in).pdf" alt="1">
+<img src = "BB Final.png" alt="1">
 In this document:
  - Include a large image of your visualization ```![image alt text](image_file.png)```
  - Again, you're going to describe this project. You are answering What? Why? and How? You can re-use the blurb on the welcome page, but expand a little.
