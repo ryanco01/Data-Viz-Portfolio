@@ -1,9 +1,7 @@
-# Project 2 Title
-
-In this folder, include all the files you used to create your visualization (.ipynb, .csv, whatever) as well as a hi-res or pdf version of your final visualizations. 
+# Bill Belichick Infographic
 
 In this document:
  - Include a large image of your visualization ```![image alt text](image_file.png)```
- - Cite any data sources
- - List the tools used
  - Again, you're going to describe this project. You are answering What? Why? and How? You can re-use the blurb on the welcome page, but expand a little.
+This project is a inforgraphic about Bill Belichick and his history in the NFL. I aimed to provide a brief overview of his accolades in order to prove why he is the greatest NFL head coach
+to be part of the game. I used data from pro-Football-Reference and made the graphic in Canva.
