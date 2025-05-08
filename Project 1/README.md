@@ -1,12 +1,10 @@
-# Project 1 Title
+# Passing Heatmaps
+<img src="./Images/Original Remake.png"  alt="1" >
 
-In this folder, include all the files you used to create your visualization (.ipynb, .csv, whatever) as well as a hi-res or pdf version of your final visualizations. 
+This project was inspired by reddit user RJ7002 and their passing heatmap. [Found here] (https://nflpassinganalyzer.streamlit.app/). Once I recreated the maps as closely as I could, I enhanced and altered
+some of its features in a way I felt better suited the data. This included changing colors of points and the plots, to splitting up the heatmaps to show completions/incompletions.
 
-In this document:
- - Include a large image of your visualization ```![image alt text](image_file.png)```
- - Cite any data sources
- - List the tools used
- - Again, you're going to describe this project. You are answering What? Why? and How? You can re-use the blurb on the welcome page, but expand a little.
+
 
  # Heading
  ## Heading 2
