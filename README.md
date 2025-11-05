@@ -16,7 +16,7 @@ To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            This project explores NFL quarterback passing. I was inspired by reddit user rj7002 and their rendition. The goal was to recreate this visual and then enhance it in my own way. ... <a href="./Project 1/README.md">Learn more</a>
+            This project explores NFL quarterback passing. I was inspired by reddit user rj7002 and their rendition. The goal was to recreate this visual and then enhance it in my own way. ... <a href="./Passing Heatmap/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Python, Pandas, Plotly, Seaborn</i>
             </p>
@@ -32,7 +32,7 @@ To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            For this project I wanted to expand the passing heatmap into something more substantial and usable. Utilizing data from the Big Data Bowl, I created a dashboard of passing charts for NFL quarterbacks... <a href="./Project 3/README.md">Learn more</a>
+            For this project I wanted to expand the passing heatmap into something more substantial and usable. Utilizing data from the Big Data Bowl, I created a dashboard of passing charts for NFL quarterbacks... <a href="./NFL Play Visualizer/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Python, Pandas, Seaborn, Plotly</i>
             </p>
@@ -49,7 +49,7 @@ To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            The goal of this project was to create a creative inforgraphic, I made one propping up who I feel is the greatest NFL head coach of all time, by exploring his decades of success...<a href="./Project 2/README.md">Learn more</a>
+            The goal of this project was to create a creative inforgraphic, I made one propping up who I feel is the greatest NFL head coach of all time, by exploring his decades of success...<a href="./BB Infographic/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Canva, Recraft</i>
             </p>
