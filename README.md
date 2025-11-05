@@ -1,7 +1,7 @@
 # Data Visualization Portfolio
 
 ## About Me
-Welcome to my data visualization portfolio! This collection showcases projects that reflect both my technical skills in data analysis and my passion for football. Throughout my data science courses at Gettysburg College, I focused on NFL-related topics, aiming to turn complex data into clear, compelling insights. These projects represent work I enjoyed making, and I hope they serve as a stepping stone toward a future in sports analytics and data science.
+Welcome to my data visualization portfolio. This collection showcases projects that reflect both my technical skills in data analysis and my passion for football. Throughout my data science courses at Gettysburg College, I focused on NFL-related topics, aiming to turn complex data into clear, compelling insights. These projects represent work I enjoyed making, and I hope they serve as a stepping stone toward a future in data science and analytics.
 
 To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/collin-ryan-510223250), my [github](https://github.com/ryanco01),
 
