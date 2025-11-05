@@ -24,6 +24,22 @@ To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/
     </tr> 
 </table>
 
+## NFL Passing Dashboard
+<table align="right | left" style = "border-collapse: collapse; border: none;">
+    <tr style = "border: none;">
+        <td style="padding: 10px; width:25%; border: none;"> 
+            <img src="./Images/Project3.png" alt="3" >
+        </td>
+        <td style="padding:10px; width:75%; border: none;" valign = "top">
+            <p>
+            For this project I wanted to expand the passing heatmap into something more substantial and usable. Utilizing data from the Big Data Bowl, I created a dashboard of passing charts for NFL quarterbacks... <a href="./Project 3/README.md">Learn more</a>
+            <br><br>
+            <i>Tools used: Python, Pandas, Seaborn, Plotly</i>
+            </p>
+        </td>
+    </tr> 
+</table>
+
 ## Bill Belichick Infographic
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
@@ -36,22 +52,6 @@ To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/
             The goal of this project was to create a creative inforgraphic, I made one propping up who I feel is the greatest NFL head coach of all time, by exploring his decades of success...<a href="./Project 2/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Canva, Recraft</i>
-            </p>
-        </td>
-    </tr> 
-</table>
-
-## NFL Passing Dashboard
-<table align="right | left" style = "border-collapse: collapse; border: none;">
-    <tr style = "border: none;">
-        <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/Project3.png" alt="3" >
-        </td>
-        <td style="padding:10px; width:75%; border: none;" valign = "top">
-            <p>
-            For this project I wanted to expand the passing heatmap into something more substantial and usable. Utilizing data from the Big Data Bowl, I created a dashboard of passing charts for NFL quarterbacks... <a href="./Project 3/README.md">Learn more</a>
-            <br><br>
-            <i>Tools used: Python, Pandas, Seaborn, Plotly</i>
             </p>
         </td>
     </tr> 
