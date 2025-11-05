@@ -49,7 +49,7 @@ To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            The goal of this project was to create a creative inforgraphic, I made one propping up who I feel is the greatest NFL head coach of all time, by exploring his decades of success...<a href="./BB Infographic/README.md">Learn more</a>
+            The goal of this project was to create a creative inforgraphic, one showcasing creative direction over pure data. I designed mine propping up who I feel is the greatest NFL head coach of all time, by exploring his decades of success...<a href="./BB Infographic/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Canva, Recraft</i>
             </p>
